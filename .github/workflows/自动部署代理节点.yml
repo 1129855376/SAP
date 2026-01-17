@@ -52,6 +52,7 @@ on:
           - Azure-SG(Singapore)
           # SAP  区域
           - SAP-UAE(Dubai)
+          - SAP-JP(Tokyo)
           # SAP Neo 区域
           - Neo-UAE(Dubai)
           - Neo-KSA(Riyadh)
